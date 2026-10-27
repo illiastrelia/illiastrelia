@@ -1,4 +1,4 @@
-I am a Senior Full Stack Web Developer with 4 years of experience, specializing in building scalable, high-performance web applications. I have a deep understanding of modern web development, focusing on clean code, performance optimization, and user-friendly UI/UX.
+I am a Senior Full Stack Web Developer with 5+ years of experience, specializing in building scalable, high-performance web applications. I have a deep understanding of modern web development, focusing on clean code, performance optimization, and user-friendly UI/UX.
 
 🔹 Frontend:
 ✅ React.js, Next.js, TypeScript, Zustand, Redux
